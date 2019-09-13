@@ -1,0 +1,7 @@
+C:\naincy_training\webapi\TddCalApp\TddCalApp\bin\Debug\TddCalApp.exe.config
+C:\naincy_training\webapi\TddCalApp\TddCalApp\bin\Debug\TddCalApp.exe
+C:\naincy_training\webapi\TddCalApp\TddCalApp\bin\Debug\TddCalApp.pdb
+C:\naincy_training\webapi\TddCalApp\TddCalApp\obj\Debug\TddCalApp.csprojAssemblyReference.cache
+C:\naincy_training\webapi\TddCalApp\TddCalApp\obj\Debug\TddCalApp.csproj.CoreCompileInputs.cache
+C:\naincy_training\webapi\TddCalApp\TddCalApp\obj\Debug\TddCalApp.exe
+C:\naincy_training\webapi\TddCalApp\TddCalApp\obj\Debug\TddCalApp.pdb

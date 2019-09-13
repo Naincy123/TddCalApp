@@ -1,0 +1,16 @@
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Test.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Test.pdb
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Library.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Library.pdb
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.csprojAssemblyReference.cache
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.csproj.CoreCompileInputs.cache
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.csproj.CopyComplete
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.dll
+C:\naincy_training\webapi\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.pdb
